@@ -1,10 +1,6 @@
-# Infinite
+# EtherInfinite
 
-Playing infinite games in the ether.
-
-# Ether
-
-`The regions of space beyond the earth's atmosphere.`
+Playing infinite games in `the regions of space beyond the earth's atmosphere.`
 
 ---
 
